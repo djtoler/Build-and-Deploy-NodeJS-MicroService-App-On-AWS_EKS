@@ -16,7 +16,7 @@ pipeline {
                 docker image ls
                 docker ps
                 docker rmi djtoler/qz-ms-addAttempt:latest || true
-                docker images -f "dangling=true" -q | xargs docker rmi
+                #docker images -f "dangling=true" -q | xargs docker rmi
                 echo "FINISHED REMOVING IMAGES" 
               '''
               }
