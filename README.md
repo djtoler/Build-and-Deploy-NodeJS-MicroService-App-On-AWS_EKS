@@ -2,7 +2,7 @@
 <img src="https://github.com/djtoler/Build-and-Deploy-NodeJS-MicroService-App-On-AWS_EKS/blob/main/1microservice.png">
 </p>
 
-##### The repository with the refactored monolithic code and architecture can be found above in this repository...(https://github.com/QuizAppMicroservices)
+##### The repository with the refactored monolithic code and architecture can be found above in this repository...
 
 ##### The repository with the refactored microservices code can be found [here](https://github.com/QuizAppMicroservices)
 
